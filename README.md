@@ -4,11 +4,11 @@
 
 I'm a final-year Computer Science and Engineering student passionate about building practical software solutions using Artificial Intelligence, Machine Learning, and Full-Stack Development.
 
-- 🎓 B.E. Computer Science & Engineering – 2027
-- 💻 Interested in AI/ML, Backend Development and Software Engineering
-- 🔭 Working on an AI-powered Predictive Maintenance System for the Automotive Industry using IoT and Cloud Analytics
-- 🌱 Exploring Cloud Computing, Infrastructure and System Design
-- 🤝 Interested in collaborating on innovative technology projects
+-  B.E. Computer Science & Engineering – 2027
+-  Interested in AI/ML, Backend Development and Software Engineering
+-  Working on an AI-powered Predictive Maintenance System for the Automotive Industry using IoT and Cloud Analytics
+-  Exploring Cloud Computing, Infrastructure and System Design
+-  Interested in collaborating on innovative technology projects
 
 ### 🛠️ Technical Skills
 
